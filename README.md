@@ -12,4 +12,4 @@ Target actual: https://raw.githubusercontent.com/Zequez/placebot-argentina-targe
 
 Esta imagen no está necesariamente actualizada a la última revisión:
 
-![This is how it looks now, but it might change when you read it, visit the placebot-argentina-target repo to see how it actually is right now](https://raw.githubusercontent.com/Zequez/placebot-argentina-target/master/current_target_that_might_not_be_updated.png)
+![This is how it looks now, but it might change when you read it, visit the placebot-argentina-target repo to see how it actually is right now](https://raw.githubusercontent.com/Zequez/placebot-argentina-target/master/reference.png)
